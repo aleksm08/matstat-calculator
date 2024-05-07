@@ -1,0 +1,18 @@
+{
+  "name": "matstat-calculator",
+  "version": "1.0.0",
+  "description": "*Дата: 06.05.2024*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.2",
+    "chartjs": "^0.3.24",
+    "dataframe-js": "^1.4.4",
+    "mathjs": "^12.4.2"
+  }
+}
